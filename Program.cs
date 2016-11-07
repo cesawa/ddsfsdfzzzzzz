@@ -12,7 +12,7 @@ namespace TestGitProject
         {
             Console.WriteLine("New line");
 
-            Console.WriteLine("Second line!");
+            Console.WriteLine("Second line! ... and his COOL!!");
 
         }
     }
