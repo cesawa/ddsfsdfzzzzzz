@@ -16,7 +16,9 @@ namespace TestGitProject
 
             Console.WriteLine("Thred line! ... and his SO COOL!! ~!!!!!!!");
 
-            
+
+            Console.WriteLine("Hmmmm");
+
         }
     }
 }
