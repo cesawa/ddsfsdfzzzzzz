@@ -11,6 +11,9 @@ namespace TestGitProject
         static void Main(string[] args)
         {
             Console.WriteLine("New line");
+
+            Console.WriteLine("Second line!");
+
         }
     }
 }
