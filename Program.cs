@@ -22,5 +22,10 @@ namespace TestGitProject
             Console.WriteLine("!!!!! Hmmmm !!!!!!");
 
         }
+
+        static void branch1()
+        {
+            Console.WriteLine("Its new branch. Woohoo ;)");
+        }
     }
 }
