@@ -25,11 +25,10 @@ namespace TestGitProject
 
         static void branch1()
         {
-<<<<<<< HEAD
+
             Console.WriteLine("Its new branch. Woohoo ;)");
-=======
             Console.WriteLine("Its 3 branch. Woohoo ;)");
->>>>>>> master
+
         }
     }
 }
