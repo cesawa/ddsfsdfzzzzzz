@@ -19,6 +19,7 @@ namespace TestGitProject
 
             Console.WriteLine("Hmmmm");
 
+<<<<<<< HEAD
             Console.WriteLine("!!!!! Hmmmm !!!!!!");
 
         }
@@ -29,6 +30,8 @@ namespace TestGitProject
             Console.WriteLine("Its new branch. Woohoo ;)");
             Console.WriteLine("Its 3 branch. Woohoo ;)");
 
+=======
+>>>>>>> 926551fa0d3747e7563bb7b81cca620073737603
         }
     }
 }
